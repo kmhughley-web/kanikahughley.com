@@ -1,0 +1,11 @@
+{
+  "name": "Your Project Name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "^14.0.0"
+  }
+}
